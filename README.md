@@ -42,7 +42,7 @@ D.  Inside Misc directory:
 
   K. To create a user with nologin shell:
             sudo useradd kola -s /sbin/nologin;
-            click grep kola /etc/passwd. 
+            click grep kola /etc/passwd to check. 
    
   L. To disable password based authentication for ssh:
             sudo vi /etc/ssh/sshd_config;
