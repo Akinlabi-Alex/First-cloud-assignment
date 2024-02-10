@@ -1,4 +1,4 @@
-A.  Using absolute path        
+A.  Using absolute path:        
            cd /home/altschool/test
 
 B.  Using relative path
